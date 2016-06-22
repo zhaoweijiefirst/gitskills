@@ -1,2 +1,7 @@
 new dev branch 
+<<<<<<< HEAD
 on master branch 
+=======
+delete dev branch 
+new feature branch 
+>>>>>>> feature
